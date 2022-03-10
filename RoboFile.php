@@ -2,13 +2,13 @@
 /**
  * Contains RoboFile
  *
- * @package odawa-vip
+ * @package lucky-club
  */
 
 /**
  * @author Joshua Copeland <josh@engagednation.com>
  * @author Matthew Kosolofski <matthew.kosolofski@engagednation.com>
- * @package odawa-vip
+ * @package lucky-club
  */
 class RoboFile extends \Robo\Tasks
 {
