@@ -1,7 +1,6 @@
 # Lucky Club Player Assist Reach Portal
 
-This is the black template for Reach products.
-
+Lucky Club Reach Site
 ## Test Logins
 
 ### Login to the Front End
